@@ -1,2 +1,3 @@
-# drag-n-drop
-practice
+## Typescript practice project.
+
+### Thanks, Maximilian Schwarzmuller!
